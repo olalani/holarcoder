@@ -13,6 +13,11 @@
       "url": "https://www.instagram.com/"
     },
     {
+      "title": "facebook",
+      "icon": "fa-facebook",
+      "url": "https://web.facebook.com/HOLAPLENTY"
+    },
+    {
       "type": "github",
       "title": "GitHub",
       "icon": "fa-github",
@@ -23,11 +28,6 @@
       "title": "DEV",
       "icon": "fa-dev",
       "url": "https://dev.to/olalani"
-    },
-    {
-      "title": "Facebook",
-      "icon": "fa-facebook",
-      "url": "https://web.facebook.com/HOLAPLENTY"
     }
   ]
 }
