@@ -1,6 +1,6 @@
 ---
-title: Get in Touch
-img_path: images/contact.jpg
+title: Contact Me
+img_path: /images/IMG-20180502-WA0011.jpg
 menus:
   main:
     title: Contact
@@ -8,4 +8,3 @@ menus:
 template: contact
 ---
 
-To get in touch fill the form below.
