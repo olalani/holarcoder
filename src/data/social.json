@@ -1,6 +1,11 @@
 {
   "links": [
     {
+      "title": "facebook",
+      "icon": "fa-facebook",
+      "url": "https://web.facebook.com/HOLAPLENTY"
+    },
+    {
       "type": "twitter",
       "title": "Twitter",
       "icon": "fa-twitter",
@@ -11,11 +16,6 @@
       "title": "Instagram",
       "icon": "fa-instagram",
       "url": "https://www.instagram.com/"
-    },
-    {
-      "title": "facebook",
-      "icon": "fa-facebook",
-      "url": "https://web.facebook.com/HOLAPLENTY"
     },
     {
       "type": "github",
