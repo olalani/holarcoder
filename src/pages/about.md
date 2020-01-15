@@ -1,5 +1,5 @@
 ---
-title: Olalani Oluwaeun Ayobami
+title: Olalani Oluwaseun Ayobami
 subtitle: About Me
 img_path: /images/IMG_20191227_093901_2.jpg
 menus:
