@@ -4,7 +4,7 @@ subtitle: Awesome Portfolio Work
 img_path: /images/9.jpg
 menus:
   main:
-    title: Style Guide
+    title: My Portfolio
     weight: 3
 template: page
 ---
